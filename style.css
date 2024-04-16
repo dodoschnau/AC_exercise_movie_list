@@ -1,0 +1,69 @@
+h1 {
+  color: blue;
+}
+
+#body {
+  background-color: #f2e6e6;
+}
+
+#tp-navbar {
+  background-color: #99ccff;
+}
+
+.navbar-brand {
+  color: black;
+}
+
+#btn-home {
+  color: black;
+}
+
+#btn-favorite {
+  color: black;
+}
+
+#card {
+  background-color: #ccccff;
+  border: 3px solid #8080c0;
+}
+
+#search-submit {
+  background-color: #ffcccc;
+}
+
+#btn-more {
+  background-color: #ffcccc;
+}
+
+#btn-plus {
+  background-color: #ffffcc;
+  border: 2px solid #ffff00;
+}
+
+.card-footer {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.modal-header {
+  background-color: #ccccff;
+  border: 3px solid #8080c0;
+}
+
+.modal-body {
+  background-color: #ccccff;
+  border: 3px solid #8080c0;
+}
+
+.modal-footer {
+  background-color: #ccccff;
+  border: 3px solid #8080c0;
+}
+
+#btn-close {
+  background-color: #ffcccc;
+}
+
+#image-fluid {
+  border-radius: 8px;
+}
